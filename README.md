@@ -1,4 +1,4 @@
-Backend Java engineer with 5+ years building Spring Boot services and REST APIs at O'Reilly Auto Parts.
+Backend Java engineer with 5+ years building Spring Boot services and REST APIs.
 
 I'm currently building **[Pit Wall](https://github.com/kcmodev/pit-wall)**, an event-driven platform that replays real Formula 1 race data through Kafka (Spring Boot, Kafka Streams, PostgreSQL, Kubernetes, GitHub Actions).
 
